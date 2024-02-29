@@ -48,4 +48,6 @@ function App() {
   );
 }
 
+console.log('chicken')
+
 export default App;
